@@ -3,7 +3,7 @@ Create and convert video with FFmpeg
 
 This is wrapper class to FFMPG 
 
-[![Build Status](https://dharmeshsharma.visualstudio.com/Dsharma.VideoConverter/_apis/build/status/dharmeshsharma.Dsharma.VideoConverter?branchName=master)](https://dharmeshsharma.visualstudio.com/Dsharma.VideoConverter/_build/latest?definitionId=3&branchName=master)
+[![Build Status](https://dharmeshsharma.visualstudio.com/talentHubCoreApi/_apis/build/status/dharmeshsharma.TalentHubAPI?branchName=master)](https://dharmeshsharma.visualstudio.com/talentHubCoreApi/_build/latest?definitionId=2&branchName=master)
 
 <p align="center">
  
