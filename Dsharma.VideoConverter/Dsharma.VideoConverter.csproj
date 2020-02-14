@@ -2,6 +2,14 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AssemblyVersion>2.0.1.1</AssemblyVersion>
+    <FileVersion>2.0.1.1</FileVersion>
+    <Version>1.0.1</Version>
+    <Company>Dharmesh</Company>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="License.cs" />
+  </ItemGroup>
 
 </Project>
