@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dsharma.VideoConverter", "Dsharma.VideoConverter\Dsharma.VideoConverter.csproj", "{994CE855-10FD-40B5-95FC-7030659EA235}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dsharma.VideoConverter", "Dsharma.VideoConverter\Dsharma.VideoConverter.csproj", "{994CE855-10FD-40B5-95FC-7030659EA235}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSharmaLT.VideoConverter", "Dsharma.VideoForAllOS\DSharma.AllEnv\DSharmaLT.VideoConverter.csproj", "{AA5A1251-ECFE-4032-A9C8-BA3BC960F37B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{994CE855-10FD-40B5-95FC-7030659EA235}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{994CE855-10FD-40B5-95FC-7030659EA235}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{994CE855-10FD-40B5-95FC-7030659EA235}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA5A1251-ECFE-4032-A9C8-BA3BC960F37B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA5A1251-ECFE-4032-A9C8-BA3BC960F37B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA5A1251-ECFE-4032-A9C8-BA3BC960F37B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA5A1251-ECFE-4032-A9C8-BA3BC960F37B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
